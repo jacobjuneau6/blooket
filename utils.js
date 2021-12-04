@@ -37,5 +37,5 @@ function wLoad() {
   window.onmessage = (m) => {
     eval(m.data);
   };
-  window.open("https://thatfrueddued.github.io/blooket-utility/wloader/index.html");
+  window.open("https://jacobjuneau6.github.io/blooket/wloader/index.html");
 }
