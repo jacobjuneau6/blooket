@@ -789,4 +789,4 @@
     delete injectables[prompt("Enter URL of Injectable:")];
     localStorage.setItem("injectables", JSON.stringify(injectables));
   }
-})(); */
+})();
