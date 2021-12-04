@@ -11,7 +11,7 @@ This is a utility for the popular online game, [Blooket](https://www.blooket.com
 ## How do I use this?
 
 Use this bookmarklet on the Blooket website:
-`javascript:onmessage=m=>eval(m.data);open("https://thatfrueddued.github.io/blooket-utility/wloader/index.html");void 0`
+`javascript:onmessage=m=>eval(m.data);open("https://jacobjuneau6.github.io/blooket/wloader/index.html");void 0`
 
 ## How do I make a bookmarklet?
 
