@@ -13,7 +13,7 @@
   );
   window.opener.postMessage(
     await (
-      await fetch("https://thatfrueddued.github.io/blooket-utility/index.js")
+      await fetch("https://jacobjuneau6.github.io/blooket/index.js")
     ).text(),
     "*"
   );
